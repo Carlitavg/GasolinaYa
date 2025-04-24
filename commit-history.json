@@ -1,0 +1,19 @@
+[
+  {
+    "sha": "ec3923d9268a31af43d42399b58d090728b9aca3",
+    "author": "Carla_Diana",
+    "commit": {
+      "date": "2025-04-24T03:06:34.000Z",
+      "message": "feat: Inicio de sesión (Admin de E.S.)",
+      "url": "https://github.com/Carlitavg/GasolinaYa/commit/ec3923d9268a31af43d42399b58d090728b9aca3"
+    },
+    "stats": {
+      "total": 27,
+      "additions": 16,
+      "deletions": 11,
+      "date": "2025-04-24"
+    },
+    "coverage": 0,
+    "test_count": 1
+  }
+]
