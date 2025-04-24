@@ -15,5 +15,22 @@
     },
     "coverage": 0,
     "test_count": 1
+  },
+  {
+    "sha": "8803fd982c4db41ae5a02ba9cd0d2190df27c977",
+    "author": "Carla_Diana",
+    "commit": {
+      "date": "2025-04-24T03:10:41.000Z",
+      "message": "feat: Inicio de sesión (Usuario)",
+      "url": "https://github.com/Carlitavg/GasolinaYa/commit/8803fd982c4db41ae5a02ba9cd0d2190df27c977"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 11,
+      "deletions": 0,
+      "date": "2025-04-24"
+    },
+    "coverage": 0,
+    "test_count": 1
   }
 ]
